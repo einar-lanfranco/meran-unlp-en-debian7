@@ -52,6 +52,7 @@ Problemas que fui encontrando además en el instalador:
 
 * Problema con permisos de la tabla sugerencia- > reportado en issue al proyecto padre
 * Problemas de dependencias (aún no reportado): de varias dependencias, lo fui solucionado con:
-  ```
-  apt-get install libmysqlclient18 libssl0.9.8 libjpeg62
+
+```
+apt-get install libmysqlclient18 libssl0.9.8 libjpeg62
 ```
